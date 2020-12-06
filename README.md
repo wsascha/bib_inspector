@@ -1,6 +1,6 @@
 # bib Inspector
 
-I use this script to check my bib file for required fields specified in `reference_information.pdf`, depending on different reference types.
+I use this script to check my bib file for required fields specified in [reference specification](./reference_information.pdf), depending on different reference types.
 
 ## Usage
 
